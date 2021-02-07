@@ -16,4 +16,4 @@ NYU students and faculty.
 Alberta will reimplement many of the features found on Albert with a focus on improving user interaction. For example, Albert's course searching system is slow and poorly formatted, and in dire need of an overhaul. Users already familiar with Albert should have little or no difficulty transitioning to Alberta.
 
 ### Scope
-This project shouldn't prove too easy as Albert has many modules that we would have to implement independently. Nor should it be too difficult, as these modules are predefined and the process of their reimplementation should be fairly straightforward.
+This project shouldn't prove too easy as Albert has many modules that we would have to implement independently. Nor should it be too difficult, as these modules are predefined and the process of their reimplementation should be fairly straightforward. Furthermore, this project could make use of the [Schedge API](https://github.com/BUGS-NYU/schedge) developed by NYU student Albert Liu in collaboration with [BUGS](https://bugs-nyu.github.io/). 
