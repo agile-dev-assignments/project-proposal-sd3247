@@ -1,7 +1,7 @@
 ## Project Proposal
 
 ### Team members
-Santiago Darré, Luis Cordova, Alex Hammer.
+Santiago Darré, Luis Cordova, Alex Hammer, Ari Khaytser.
 
 ### Project title
 Alberta.
